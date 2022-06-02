@@ -1,6 +1,17 @@
 ### Homework4　DFS
-### 実行方法
+### ディレクトリ構成
 
+```shell
+├──── data
+│       ├── graph_small.png
+│       ├── links_small.txt
+│       ├── links.txt
+│       ├── pages_small.txt
+│       └── pages.txt
+├── .gitignore
+├── README.md
+├── wikipedia.sample.cc
+```
 #### C++
 ```shell
 $ g++ -std=c++11 wikipedia_sample.cc && ./a.out
